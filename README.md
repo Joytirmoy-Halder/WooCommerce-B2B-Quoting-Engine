@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg" alt="WooCommerce" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/WooCommerce_logo_%282015%29.svg" alt="WooCommerce" width="200"/>
   <h1>WooCommerce B2B Quoting Engine</h1>
   <p><strong>A beautifully simple, incredibly powerful way to let your customers request bulk or custom quotes instead of forcing them through a standard checkout. Built to work flawlessly with modern themes and page builders!</strong></p>
   
